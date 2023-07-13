@@ -20,7 +20,7 @@ type CompilerOptStub = {
   description: any
 }
 
-const notCompilerOptions = ["Project_Files_0", "Watch_Options_999", "Command_line_Options_6171"]
+const notCompilerOptions = ["Project_Files_0", "Watch_Options_999", "Command_l"]
 const notRelevantToPlayground = [
   "listFiles",
   "allowJs",

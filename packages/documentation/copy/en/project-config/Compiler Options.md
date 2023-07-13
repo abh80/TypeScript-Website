@@ -826,7 +826,7 @@ tsc app.ts util.ts --target esnext --outfile index.js
 </td>
 </tr>
 <tr class="option-description odd"><td colspan="3">
-<p>Control what method is used to detect the whether a JS file is a module.</p>
+<p>Specify what method is used to detect whether a file is a script or a module.</p>
 </td></tr>
 
 <tr class='even' name='moduleResolution'>
